@@ -8,7 +8,6 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
-
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
@@ -29,7 +28,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: black;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +38,7 @@ a:hover {
 }
 
 .color-a {
-  color: #0078ff;
+  color: black;
 }
 
 .color-d {
@@ -60,7 +59,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #1b191979;
 }
 
 .display-5 {
@@ -90,7 +89,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .overlay-mf {
@@ -137,7 +136,7 @@ a:hover {
 
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: black;
   font-size: 1.1rem;
 }
 
@@ -160,7 +159,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: black;
   margin: 0 auto;
 }
 
@@ -179,7 +178,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: black;
   width: 100px;
   bottom: -12px;
 }
@@ -216,12 +215,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px black;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: black;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -246,7 +245,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: black;
   margin-right: 10px;
 }
 
@@ -260,7 +259,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px black;
   display: block;
 }
 
@@ -307,7 +306,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: black;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -326,7 +325,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: black;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -364,7 +363,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid black;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -481,31 +480,41 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
   background-color: #1B1B1B;
 }
+
+
+/*new*/ 
+.title-s  {
+  /*text-decoration-line: underline;*/
+  color: rgb(0, 0, 0) ;
+  font-weight: 700;
+  padding-right: 5px;
+}
+
 
 .navbar-b .navbar-brand {
   color: #fff;
@@ -532,13 +541,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #0078ff;
+  background-color: black;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -652,7 +661,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: black;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -664,7 +673,7 @@ a:hover {
 }
 
 .intro-single .breadcrumb a {
-  color: #fff;
+  color:white;
 }
 
 /*======================================
@@ -676,6 +685,10 @@ a:hover {
   padding-bottom: 4rem;
 }
 
+.lead {
+  text-align: justify;
+}
+
 .about-mf .about-img {
   margin-bottom: 2rem;
 }
@@ -685,11 +698,11 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #141111;
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: rgb(201, 201, 201);
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
@@ -697,7 +710,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: rgba(5, 138, 190, 0.877);
 }
 
 /*======================================
@@ -714,8 +727,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: black;
+  box-shadow: 0 0 0 10px white;
 }
 
 .service-box .service-ico {
@@ -756,7 +769,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px white;
 }
 
 .counter-num .counter {
@@ -799,17 +812,16 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: black;
 }
-
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: black;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: black;
 }
 
 .work-content .w-like .num-like {
@@ -832,7 +844,9 @@ a:hover {
   color: #fff;
   text-align: center;
 }
-
+.content-test p{
+  text-align: center;
+}
 .testimonial-box .author-test {
   margin-top: 1rem;
 }
@@ -852,7 +866,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: black;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -901,10 +915,12 @@ a:hover {
 .card-blog .card-title {
   font-size: 1.3rem;
   margin-top: .6rem;
+  text-align: center;
 }
 
 .card-blog .card-description {
   color: #4e4e4e;
+  text-align: center;
 }
 
 .card-blog .post-author {
@@ -914,7 +930,6 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
 }
 
 /*======================================
@@ -1056,7 +1071,29 @@ a:hover {
 /*======================================
 //--//-->   CONTACT
 ======================================*/
+/*.contact-mf p{
+  padding-left: 0px;
+}
+.listicons{
+  margin-left: 20px;
+  width: 400px;
+}
+.socials{
+  margin-left: 30px;
+}
+.contact-mf h5{
+  padding-left: 0px;
+}
 
+.contact-mf  {
+  margin-left: 200px;
+  margin-right: 200px;
+  position: center;
+}*/
+.box-shadow-full {
+  display: flex;
+ 
+}
 .footer-paralax {
   padding: 4rem 0 0 0;
 }
@@ -1090,7 +1127,6 @@ footer .credits a {
 /*======================================
 //--//-->   CONtaCT FORM
 ======================================*/
-
 #sendmessage {
   color: #0078ff;
   border: 1px solid #0078ff;
@@ -1150,7 +1186,7 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color:#0062d3;
   color: #fff;
   transition: all 500ms ease;
 }

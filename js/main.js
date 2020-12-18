@@ -12,7 +12,7 @@
   // Preloader
   $(window).on('load', function () {
     if ($('#preloader').length) {
-      $('#preloader').delay(100).fadeOut('slow', function () {
+      $('#preloader').delay(4000).fadeOut('slow', function () {
         $(this).remove();
       });
     }
@@ -97,7 +97,7 @@
 			typeSpeed: 80,
 			loop: true,
 			backDelay: 1100,
-			backSpeed: 30
+			backSpeed: 3
 		});
 	}
 
@@ -105,7 +105,7 @@
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 4000,
+		autoplayTimeout: 20000,
 		autoplayHoverPause: true,
 		responsive: {
 			0: {

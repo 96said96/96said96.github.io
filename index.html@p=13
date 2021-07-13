@@ -4,18 +4,9 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow"/>
-	<title>Elhamaoui &#8211; Electrical Engineer</title>
-    <link rel="shortcut icon" href="images/saidhamaoui.co">
+	<title>Parallax Image &#8211; Nastik</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-
-
-
-
-<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=60ecda5a6a307c0019feb300&product=sop' async='async'></script>
-
-
-
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Nastik &raquo; Feed" href="https://nastik.webredox.net/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Nastik &raquo; Comments Feed" href="https://nastik.webredox.net/comments/feed/" />
@@ -43,17 +34,8 @@ img.emoji {
 <link rel='stylesheet' id='wc-block-style-css'  href='https://nastik.webredox.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='https://nastik.webredox.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://nastik.webredox.net/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.7' type='text/css' media='all' />
-
-
-
-
 <style id='rs-plugin-settings-inline-css' type='text/css'>
-
-
-
-
-
-
+#rs-demo-id {}
 </style>
 <link rel='stylesheet' id='woocommerce-layout-css'  href='https://nastik.webredox.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.3.0' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://nastik.webredox.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.3.0' type='text/css' media='only screen and (max-width: 768px)' />
@@ -178,7 +160,7 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
         <div id="main">
             <!-- header-->
             <header class="main-header">
-				                <a href="#" class="logo-holder ajax"><img src="images/saidhamaoui.png" class="nastik-small-logo" alt="Nastik"></a>
+				                <a href="https://nastik.webredox.net/" class="logo-holder ajax"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/logo.png" class="nastik-small-logo" alt="Nastik"></a>
 								                <!-- nav-button-wrap-->
                 <div class="nav-button but-hol">
                     <span  class="nos"></span>
@@ -189,16 +171,25 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
 								                <!-- nav-button-wrap end-->
                 <div class="header-social">
                     <ul >
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/sa%C3%AFd-elhamaoui/"><i class="fa fa-linkedin"></i></a></li>
-						                        <li><a target="_blank" href="https://www.facebook.com/people/Sa%C3%AFd-El-Hamaoui/100042459880685"><i class="fa fa-facebook"></i></a></li>
-						                        <li><a target="_blank" href="https://wa.me/+212708029774"><i class="fa fa-whatsapp"></i></a></li>
-                                                <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
-						                        <li><a target="_blank" href="https://www.instagram.com/heysa3id_/"><i class="fa fa-instagram"></i></a></li>
+                                                <li><a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a></li>
+												
+						                         <li><a target="_blank" href="#"><i class="fab fa-twitter"></i></a></li>
+												
+												
+						                        <li><a target="_blank" href="#"><i class="fab fa-dribbble"></i></a></li>
+												
+												
+												
+												
+												
+												
+												
+						                        <li><a target="_blank" href="#"><i class="fab fa-instagram"></i></a></li>
 												
 						                    </ul>
                 </div>
 																                <div class="folio-btn">
-                    <a class="folio-btn-item ajax" href="portfolio.html"></a>
+                    <a class="folio-btn-item ajax" href="https://nastik.webredox.net/portfolio"></a>
                     <span class="folio-btn-tooltip">					My Portfolio					</span>
                 </div>
 				            </header>
@@ -207,53 +198,97 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
             <div id="wrapper">
 			<!-- content-holder  -->	
                 
-				<div class="content-holder scroll-content" data-pagetitle="Home">
+				<div class="content-holder scroll-content" data-pagetitle="Parallax Image">
 							<!-- nav-holder-->
                     <div class="nav-holder but-hol">
                         <div class="nav-scroll-bar-wrap fl-wrap">
-							                            <a href="" class="ajax logo_menu"></a>
+							                            <a href="https://nastik.webredox.net/" class="ajax logo_menu"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/logo2.png" alt="Nastik"></a>
 							                            <div class="nav-container fl-wrap">
                                 <!-- nav -->
                                 <nav class="nav-inner" id="menu">
                                     <ul>
                                         <li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children"><a href="#" class="ajax">Home</a>
-
+<ul class="sub-menu">
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://nastik.webredox.net/" class="ajax">Slider</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/carousel/" class="ajax">Carousel</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/impulse-image/" class="ajax">Impulse Image</a></li>
+	<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/slideshow/" class="ajax">Slideshow</a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="ajax">Videos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/mp4-video/" class="ajax">MP4 Video</a></li>
+		<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/youtube-video/" class="ajax">Youtube Video</a></li>
+		<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/vimeo-video/" class="ajax">Vimeo Video</a></li>
+	</ul>
 </li>
-<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="portfolio.html" class="ajax">My Portfolio</a>
-
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item"><a href="https://nastik.webredox.net/parallax-image/" class="ajax">Parallax Image</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/revolution-slider/" class="ajax">Revolution Slider</a></li>
+</ul>
 </li>
-<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="contact.html" class="ajax">Contact</a></li>
-
-
+<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="ajax">Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/portfolio/" class="ajax">Fullscreen Grid</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/fullscreen-grid-2/" class="ajax">Fullscreen Grid 2</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/column-grid/" class="ajax">Column Grid</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/column-grid-2/" class="ajax">Column Grid 2</a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/boxed-grid/" class="ajax">Boxed Grid</a></li>
+	<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="ajax">Single</a>
+	<ul class="sub-menu">
+		<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/corporate-website/" class="ajax">Style 1</a></li>
+		<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/man-in-old-town/" class="ajax">Style 2</a></li>
+		<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/barbershop-website/" class="ajax">Style 3</a></li>
+		<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/mobile-ui-interface-2/" class="ajax">Style 4</a></li>
+		<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/kent-brant-concept/" class="ajax">Style 5</a></li>
+		<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/video-project/" class="ajax">Style 6 MP4</a></li>
+		<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/project-vimeo/" class="ajax">Style 7 Vimeo</a></li>
+		<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-portfolio"><a href="https://nastik.webredox.net/portfolio/youtube-video-project/" class="ajax">Style 8 Youtube</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/contact/" class="ajax">Contact</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="ajax">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/blog-right-sidebar/" class="ajax">Blog Right Sidebar</a></li>
+	<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/blog-full-width/" class="ajax">Blog Full Width</a></li>
+	<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/blog-left-sidebar/" class="ajax">Blog Left Sidebar</a></li>
+</ul>
+</li>
+<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/shop/" class="no-ajax">Shop</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="ajax">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/team/" class="ajax">Team</a></li>
+	<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://nastik.webredox.net/team-page-header/" class="ajax">Team  Page Header</a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://nastik.webredox.net/tortor-tempor-in-porta/" class="ajax">Blog Single</a></li>
+	<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://nastik.webredox.net/404" class="ajax">404 Page</a></li>
+</ul>
+</li>
                                     </ul>
                                 </nav>
                                 <!-- nav end-->
-						 </div>
+                            </div>
                         </div>
 						                        <div class="share-wrapper">
 												<span class="share-title">Share : </span>
-						                        <div class="sharethis-inline-share-buttons"></div>
+						                        <div class="share-container"></div>
                         </div>
 						                        <div class="nav-holder-line"></div>
-                    </div>					
+                    </div>
                     <div class="nav-holder-dec color-bg"></div>
                     <div class="nav-overlay"></div>
                     <!-- nav-holder end -->  
                     <!-- hero-wrap--> 
 	<div class="hero-wrap fl-wrap full-height scroll-con-sec hidden-section" id="sec1" data-scrollax-parent="true">
-    <div class="bg par-elem"  data-bg="images/saidelhamaoui2.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
+    <div class="bg par-elem"  data-bg="https://nastik.webredox.net/wp-content/uploads/2019/10/12.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
      <div class="overlay"></div>
         <div class="half-hero-wrap">
             <div class="pr-bg"></div>
 				                <div class="rotate_text hero-decor-let">
-								                    <div>Electrical design</div>
-												                    <div>IoT Developpement</div>
-												                    <div>Renewable Energies</div>
-                                                                    <div>Industry 4.0</div>
-                                                                    <div>Automation</div>
+								                    <div>Web Design</div>
+												                    <div>Ui/Ux Design</div>
+												                    <div>Branding</div>
 								                </div>
-									<h1> <span>Hi,</span> i am  <br>Elhamaoui said <br>    <span>Electrical systemes </span> & <span> Renewable Energies </span> Engineer</h1>
-									<h4>Welcome to this brief presentation of my profile.</h4>
+									<h1>Design  and  <br>development <br>   of <span>  Corporate website</span></h1>
+									<h4>Praesent eu massa vel diam laoreet elementum ac sed felis. Donec suscipit ultricies risus sed mollis. Donec volutpat porta risus posuere imperdiet. </h4>
 						<div class="clearfix"></div>
 						        </div>
         <!-- hero  elements  --> 
@@ -267,7 +302,7 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
             <div class="mousey">
 				<div class="scroller"></div>
             </div>
-            <span>Scroll down to see more </span>
+            <span>Scroll down to discover</span>
         </div>
 		    <!-- hero  elements end--> 
 </div>	<!-- fixed-column-wrap --> 					
@@ -295,35 +330,27 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
                 <ul class="no-list-style">
                 																				                <li><a class="scroll-link fbgs" href="#sec2" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/1-7.jpg" data-bgtex="About"><span>About</span></a></li>
 																																				                <li><a class="scroll-link fbgs" href="#sec3" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/5-1.jpg" data-bgtex="Services"><span>Services</span></a></li>
+																																				                <li><a class="scroll-link fbgs" href="#sec4" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/3-7.jpg" data-bgtex="Skills"><span>Skills</span></a></li>
 																																				                <li><a class="scroll-link fbgs" href="#sec5" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/13-1.jpg" data-bgtex="Resume"><span>Resume</span></a></li>
-																																				                <li><a class="scroll-link fbgs" href="#sec6" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/4-4.jpg" data-bgtex="Clients"><span>Testimonials</span></a></li>
-                                                                                                                                                                <li><a class="scroll-link fbgs" href="#sec7" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/4-4.jpg" data-bgtex="Contacts"><span>Contact</span></a></li>
+																																				                <li><a class="scroll-link fbgs" href="#sec6" data-bgscr="https://nastik.webredox.net/wp-content/uploads/2019/10/4-4.jpg" data-bgtex="Clients"><span>Clients</span></a></li>
 																				</ul>
             </nav>
             <div class="arrowpagenav"></div>
         </div>
         <!--page-scroll-nav end-->
-						<div class="clear"></div><section id="sec2" class="hidden-section scroll-con-sec vc-section bot-element"><div class="col-wc_dec"></div><div class="container"><div class="section-title fl-wrap"><h3> About Me</h3><p>who am i ?  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="dec-img  fl-wrap"><img src="images/about1.png" class="respimg" alt="about"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="main-about fl-wrap"><h5 >I am </h5><h2 style="text-align:left;">  Said <span>ELHAMAOUI</span>  <br>Electrical Systems <span>&</span> Renewable Energies <span> Engineer </span> from <span>Morocco</span> </h2><div class="main-about-text-area">
-<p style="text-align: justify ; font-size:15px;"> &nbsp;&nbsp;Freshly graduated engineer from ENSET of Mohammedia in Electrical Systems and Renewable Energies , 
-    
-    I'm passionate about embedded systems design and implementation (PCB design, MCU Programming). 
-    design and implementation of IoT and connected objects solutions (Wifi, GSM, ZigBee , MQTT... etc.) and intégration of ML & Big-data , 
-    renewable energies and  electrical installations sizing (PV panels, protection devices, transformers... etc.) And of course PLC  programming and supervision
-   <br> &nbsp;&nbsp;  I will be delighted to be able to bring my skills 
-    acquired during my studies as well as my deep enthusiasm to work in an innovative organization..
-    Passioned and versatile, I use my analytical skills and my leadership skills to help my work environment to develop. 
-    I thrive in goal-oriented environments with a proven ability to work under pressure.</p>
-    <p style="font-size:15px;"><i class="fa fa-user fa-2x"> </i> &nbsp;&nbsp; 23 years old from Agadir Morocco    </p>
-    <p style="font-size:15px;"><i class="fa fa-language fa-2x"> </i> &nbsp;&nbsp;  I speak English , French , Arabic & Amazigh  </p>
-    <p style="font-size:15px;"><i class="fa fa-spinner fa-spin fa-2x "> </i> &nbsp;&nbsp;  Fast learner & engineering enthusiasts  </p>
-    <p style="font-size:15px;"><i class="fa fa-users fa-2x"> </i> &nbsp;&nbsp;  Good team & leadership spirit </p>
-    
-
-</div><a href="contact.html" class="btn ajax  fl-btn color-bg" target="_self">Get in touch</a></div></div></div></div></div><div class="sec-number">01.</div> </div></section><div class="clear"></div><section  class="dark-bg bot-element" ><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="inline-facts-container fl-wrap optional_counter"><div class="inline-facts-wrap">
+						<div class="clear"></div><section id="sec2" class="hidden-section scroll-con-sec vc-section bot-element" style=" "><div class="col-wc_dec"></div><div class="container"><div class="section-title fl-wrap"><h3> About Me</h3><p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. MAECENAS IN PULVINAR NEQUE. NULLA FINIBUS LOBORTIS PULVINAR.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="dec-img  fl-wrap"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/about.jpg" class="respimg" alt="about"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="main-about fl-wrap"><h5>Curabitur convallis fringilla diam</h5><h2>Innovative solutions<br>to boost <span> your creative </span> projects</h2><div class="main-about-text-area">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae lectus suscipit, et pulvinar nisi tincidunt. Aliquam erat volutpat. Curabitur convallis fringilla diam sed aliquam. Sed tempor iaculis massa faucibus feugiat. In fermentum facilisis massa, a consequat purus viverra.</p>
+<ul>
+<li>Leverage agile frameworks to provide a robust synopsis.</li>
+<li>Iterative approaches to corporate strategy foster.</li>
+<li>Bring to the table win-win survival strategies.</li>
+<li>Scalable gun control breakthroughs social movement.</li>
+</ul>
+</div><a href="https://nastik.webredox.net/portfolio" class="btn ajax  fl-btn color-bg" target="_self">My Portfolio</a></div></div></div></div></div><div class="sec-number">01.</div> </div></section><div class="clear"></div><section  class="dark-bg bot-element" style=" "><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="inline-facts-container fl-wrap optional_counter"><div class="inline-facts-wrap">
                     <div class="inline-facts">
                         <div class="milestone-counter">
                             <div class="stats animaper">
-                                <div class="num" data-content="0" data-num="20">0</div>
+                                <div class="num" data-content="0" data-num="145">0</div>
                             </div>
                         </div>
                         <h6>Finished projects</h6>
@@ -332,247 +359,137 @@ var _zxcvbnSettings = {"src":"https:\/\/nastik.webredox.net\/wp-includes\/js\/zx
                     <div class="inline-facts">
                         <div class="milestone-counter">
                             <div class="stats animaper">
-                                <div class="num" data-content="0" data-num="5">0</div>
+                                <div class="num" data-content="0" data-num="357">0</div>
                             </div>
                         </div>
-                        <h6>PROFESSIONAL EXPERIENCES</h6>
+                        <h6>Happy customers</h6>
 						</div>
 					</div><div class="inline-facts-wrap">
                     <div class="inline-facts">
                         <div class="milestone-counter">
                             <div class="stats animaper">
-                                <div class="num" data-content="0" data-num="4">0</div>
+                                <div class="num" data-content="0" data-num="825">0</div>
                             </div>
                         </div>
-                        <h6>obtained diplomas</h6>
+                        <h6>Working hours</h6>
 						</div>
 					</div><div class="inline-facts-wrap">
                     <div class="inline-facts">
                         <div class="milestone-counter">
                             <div class="stats animaper">
-                                <div class="num" data-content="0" data-num="3">0</div>
+                                <div class="num" data-content="0" data-num="15">0</div>
                             </div>
                         </div>
                         <h6>Awards won</h6>
 						</div>
-					</div></div></div></div></div></div></div></section><div class="clear"></div><section id="sec3" class="hidden-section scroll-con-sec vc-section bot-element" ><div class="container"><div class="section-title fl-wrap"><h3> Services</h3><p>My proffesional skills.  </p></div>
-                       <div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="cards-wrap fl-wrap">
-                  <div class="row"><div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/solar.jpg"></div><div class="overlay"></div><div class="inner"><h2>Electrical Sizing </h2><ul><li>Autocad</li><li>Caneco</li><li>PvSyst</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-cog fa-spin  "></i></div><p style="text-align: center;">Design of electrical and photovoltaic installations, using CanecoBT, Autocad and PVsyst tools.</p></div></div></div></div></div>  
-                       <div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/iot.jpg"></div><div class="overlay"></div><div class="inner"><h2>IoT developpement</h2><ul><li>Programming</li><li>SQL Database</li><li>Node-red</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-code fa-spin"></i></div><p style="text-align: center;">Nodes programming (esp8266,arduino), MQTT HTTP communication protocol, data storage (MySql) Data visualization on Vue.js, Node-red, Grafana.</p></div></div></div></div></div> 
-                        <div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/embededsystems1.jpg"></div><div class="overlay"></div><div class="inner"><h2>Embedded Systems</h2><ul><li>Conception</li><li>Design</li><li>Kicad</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-gg  fa-spin"></i></div><p style="text-align: center;">Programming and control of embedded systems, PCB design, programming of Arduino boards, PIC16F..</p></div></div></div></div></div> 
-                         <div class="col-md-4"> <br><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/command.jpg"></div><div class="overlay"></div><div class="inner"><h2>Control/Command</h2><ul><li>Matlab</li><li>Simulink</li><li>Modeling</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-code-fork "></i></div><p style="text-align: center;">Use of the Matlab/Simulink tool for modeling and simulation of electrical machines..</p></div></div></div></div></div>
-                         <div class="col-md-4"> <br><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/scada.jpg"></div><div class="overlay"></div><div class="inner"><h2>Automation & Supervision</h2><ul><li>Step7</li><li>TiaPortal</li><li>WinCC</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-sitemap "></i></div><p style="text-align: center;">Automation and supervision of production systems using Step7/Wincc TIAPORTAL tools.</p></div></div></div></div></div> 
-                         <div class="col-md-4"><br><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="images/team.jpg"></div><div class="overlay"></div><div class="inner"><h2>Soft Skills</h2><ul><li>Leadership</li><li>Team work</li><li>Initiative</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fa fa-users "></i></div><p style="text-align: center;">Project management ,Analytical and synthetic skills ,Good interpersonal skills ,Teamwork ,Initiative and leadership.</p></div></div></div></div></div></div></div> 
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="srv-link-text fl-wrap">  <h4>Ready to order your project ? Visit my Portfolio page to see more :</h4><a href="portfolio.html" class="btn float-btn ajax  color-bg" target="_self">My Portfolio</a></div></div></div></div></div></div></div></div></div><div class="sec-number">02.</div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section  class=" vc-section bot-element" ><div class="container"><div class="section-title fl-wrap">
-                            <h3> My academic background</h3><p>  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">    
-                  <i class="fa fa-graduation-cap "></i>
-                  </div><h4>Engineer's degree in Electrical Engineering & Renewable Energies </h4><div class="process-details">
-<h6 style="text-align: center;">Higher Normal School of Technical Education ENSET - Mohammedia</h6>
-<p style="text-align: center;"><img src="images/ensetmohammedia2.png" alt="1"> </div><span class="process-numder" >2019-2021</span></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">
-                  <i class="fa fa-graduation-cap"></i>
-                  </div>
-                  <h4>Bachelor of Applied Science - BASc in  Energy Efficiency & Renewable Energies </h4><div class="process-details">
-<h6 style="text-align: center;" >Highest School of Technologie (EST) - Agadir</h6>
-<p style="text-align: center;"><img src="images/estagadir2.png" alt="1">  </div><span class="process-numder">2018-2019</span></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">
-                  <i class="fa fa-graduation-cap"></i>
-                  </div><h4>University Diploma of Technology in Electrical Engineering  </h4><div class="process-details">
-<h6 style="text-align: center;">Highest School of Technologie (EST) - Agadir</h6>
-<p style="text-align: center;"><img src="images/estagadir2.png" alt="1"></div><span class="process-numder">2016-2018</span></li></ul></div></div></div></div></div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section id="sec4" class="hidden-section scroll-con-sec vc-section bot-element" ><div class="container"><div class="section-title fl-wrap"><h3> My Skills</h3>
-    <p>My acquired professional skills :  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="fl-wrap small-section-title"><h3></h3></div><div class="clearfix"></div><div class="piechart-holder animaper" data-skcolor="#F68338"><div class="piechart" >
-                   <span class="chart" data-percent="75">
+					</div></div></div></div></div></div></div></section><div class="clear"></div><section id="sec3" class="hidden-section scroll-con-sec vc-section bot-element" style=" "><div class="container"><div class="section-title fl-wrap"><h3> Services</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="cards-wrap fl-wrap"><div class="row"><div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="https://nastik.webredox.net/wp-content/uploads/2019/10/1-2.jpg"></div><div class="overlay"></div><div class="inner"><h2>Web Design</h2><ul><li>Concept</li><li>Design</li><li>3D Modeling</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fal fa-desktop"></i></div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p><div class="serv-price-wrap"><span>Price</span>$125-$335</div></div></div></div></div></div><div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="https://nastik.webredox.net/wp-content/uploads/2019/10/2-1.jpg"></div><div class="overlay"></div><div class="inner"><h2>Branding</h2><ul><li>Concept</li><li>Design</li><li>3D Modeling</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fab fa-pagelines"></i></div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p><div class="serv-price-wrap"><span>Price</span>$200-$500</div></div></div></div></div></div><div class="col-md-4"><div class="content-inner fl-wrap"><div class="content-front"><div class="cf-inner"><div class="bg "  data-bg="https://nastik.webredox.net/wp-content/uploads/2019/10/3-2.jpg"></div><div class="overlay"></div><div class="inner"><h2>Ui/Ux Design</h2><ul><li>Concept</li><li>Design</li><li>3D Modeling</li></ul></div></div></div><div class="content-back"><div class="cf-inner"><div class="inner"><div class="dec-icon"><i class="fal fa-mobile-android"></i></div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p><div class="serv-price-wrap"><span>Price</span>$225-$1300</div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="srv-link-text fl-wrap"><h4>Ready to order your project ? Visit my contacts page:</h4><a href="https://nastik.webredox.net/contact" class="btn float-btn ajax  color-bg" target="_self">Contacts</a></div></div></div></div></div></div></div></div></div><div class="sec-number">02.</div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section  class=" vc-section bot-element" style=" "><div class="container"><div class="section-title fl-wrap"><h3> Working Process</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">
+                  <i class="fab fa-slideshare"></i>
+                  </div><h4>Discuss the project</h4><div class="process-details">
+<h6>Duis autem vel eum iriure dolor</h6>
+<p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor.   </div><span class="process-numder">01.</span></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">
+                  <i class="fal fa-laptop"></i>
+                  </div><h4>Develop &amp; elaborate</h4><div class="process-details">
+<h6>Duis autem vel eum iriure dolor</h6>
+<p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor.   </div><span class="process-numder">02.</span></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="process-wrap fl-wrap"><ul><li><div class="time-line-icon">
+                  <i class="fal fa-flag-checkered"></i>
+                  </div><h4>Final approvement</h4><div class="process-details">
+<h6>Duis autem vel eum iriure dolor</h6>
+<p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor.   </div><span class="process-numder">03.</span></li></ul></div></div></div></div></div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section id="sec4" class="hidden-section scroll-con-sec vc-section bot-element" style=" "><div class="container"><div class="section-title fl-wrap"><h3> My Skills</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="fl-wrap small-section-title"><h3>LANGUAGE SKILLS</h3></div><div class="clearfix"></div><div class="piechart-holder animaper" data-skcolor="#F68338"><div class="piechart" >
+                   <span class="chart" data-percent="85">
                    <span class="percent"></span>
                     </span>
-                    <h4  > IoT/Web Dev</h4>
-                    </div><div   class="piechart" >
-                   <span class="chart" data-percent="80">
+                    <h4>French</h4>
+                    </div><div class="piechart" >
+                   <span class="chart" data-percent="90">
                    <span class="percent"></span>
                     </span>
-                    <h4  >Embedded Systems</h4>
+                    <h4>Dutch</h4>
                     </div><div class="piechart" >
                    <span class="chart" data-percent="80">
                    <span class="percent"></span>
                     </span>
-                    <h4  >Electrical Sizing</h4>
+                    <h4>Portugese</h4>
                     </div><div class="piechart" >
                    <span class="chart" data-percent="70">
                    <span class="percent"></span>
                     </span>
-                    <h4  >Automation/supervision </h4>
-                    </div></div></div></div></div>
-                    <div class="wpb_column vc_column_container vc_col-sm-7">
-                        <div class="vc_column-inner"><div class="wpb_wrapper">
-                            <div class="fl-wrap small-section-title"><h3></h3></div><div class="clearfix"></div><div class="skillbar-box animaper"><div class="pr-bg pr-bg-white"></div><div class="clearfix"></div>
-                            <div class="custom-skillbar-title"><span>PCB Design kicad</span></div>
-                              <div class="skill-bar-percent">60%</div>
-                              <div class="skillbar-bg" data-percent="60%">
+                    <h4>Russian</h4>
+                    </div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="fl-wrap small-section-title"><h3>DEVELOPER SKILLS</h3></div><div class="clearfix"></div><div class="skillbar-box animaper"><div class="pr-bg pr-bg-white"></div><div class="clearfix"></div><div class="custom-skillbar-title"><span>Photoshop</span></div>
+                              <div class="skill-bar-percent">95%</div>
+                              <div class="skillbar-bg" data-percent="95%">
                               <div class="custom-skillbar"></div>
-                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>Autocad , Caneco BT , PVsyst , matlab simulink</span></div>
+                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>HTML/Css</span></div>
                               <div class="skill-bar-percent">65%</div>
                               <div class="skillbar-bg" data-percent="65%">
                               <div class="custom-skillbar"></div>
-                             </div>
-                             <div class="clearfix"></div><div class="custom-skillbar-title"><span>MQTT, ZigBee, ESP8266 , aRDUINO , raspberry</span></div>
+                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>3D MAX</span></div>
+                              <div class="skill-bar-percent">95%</div>
+                              <div class="skillbar-bg" data-percent="95%">
+                              <div class="custom-skillbar"></div>
+                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>PHP</span></div>
                               <div class="skill-bar-percent">70%</div>
                               <div class="skillbar-bg" data-percent="70%">
                               <div class="custom-skillbar"></div>
-                             </div>
-                             <div class="clearfix"></div><div class="custom-skillbar-title"><span>Node-red, VScode, MySqL, grafana</span></div>
-                              <div class="skill-bar-percent">70%</div>
-                              <div class="skillbar-bg" data-percent="70%">
+                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>Javascript</span></div>
+                              <div class="skill-bar-percent">60%</div>
+                              <div class="skillbar-bg" data-percent="60%">
                               <div class="custom-skillbar"></div>
-                             </div>
-                             
-                             <div class="clearfix"></div><div class="custom-skillbar-title"><span>HTML, CSS, bootstrap 4</span></div>
-                              <div class="skill-bar-percent">70%</div>
-                              <div class="skillbar-bg" data-percent="70%">
-                              <div class="custom-skillbar"></div>
-                             </div><div class="clearfix"></div><div class="custom-skillbar-title"><span>python ,scikit-learn, LSTM
-                                  </span></div>
-                              <div class="skill-bar-percent">40%</div>
-                              <div class="skillbar-bg" data-percent="40%">
-                              <div class="custom-skillbar"></div>
-                             </div></div></div></div></div></div> 
-                             <div class="sec-number">03.</div> </div><div class="col-wc_dec col-wc_dec2 col-wc_dec3"></div></section><div class="clear"></div><section  class="dark-bg bot-element" ><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="video-box dec-img fl-wrap"><img src="images/background1 .jpg" class="respimg" alt="1"><a class="video-box-btn image-popup" href="https://youtu.be/-NHf_lW9fYE"><i class="fa fa-play" aria-hidden="true"></i></a></div></div></div></div>
-                                <div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="video-promo-text fl-wrap mar-top"><h3>MY VIDEO PRESENTATION</h3><div style="text-align:justify;" class="main-about-text-area">This is a brief video presentation of my profile , my academic background , internships , proffessional experiences , projects and more.... <br>  <br> Check the rest of website to find out more !</div></div></div></div></div></div></div></div></div></div></div>
-                                <div class="hero-corner"></div></section><div class="clear"></div>
-                                
-                                <section id="sec5" class="hidden-section scroll-con-sec vc-section bot-element" ><div class="container"><div class="section-title fl-wrap"><h3> Resume</h3><p>View my proffesional EXPERIENCES and internships   <br> <a href="CV-Said-Elhamaoui-Ingénieur-Syst- élec & EnR.pdf" class="btn noajax  fl-btn color-bg"target="_blank">Download my resume </a> </p></div>
-                                    
-                                    <div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="custom-inner-holder"><div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase fa-2x fa-2x"></i><h3> End Of Studies Engineer's  Project Internship <span style="font-size: 22px;font-weight: 600;"> Green Energy Park</span> 
-                                    </h3><span style="font-size: 16px;"> Feb - Aug 2021 </span></div></div>
-                                    <div class="col-md-8"><div class="resum-content fl-wrap"><h4>Conception of a smart home management system based on IoT and ML</h4>
-<p style="text-align: justify;" >This project presents an IoT and machine learning based smart home management system for home control, monitoring, comfort, safety, and energy saving.
-     We used different home automation system in order to test different protocols in the field and their coexistence. We used the Loxone system, Sonoff & Aqara Zigbee devices and a WiFi based multi sensor in order to control and monitor the smart home, and Home Assistant app for the mobile and web interfaces and data collection. 
-     The LSTM machine learning algorithm used to learn 
-    temperature patterns in order control the HVAC system aiming to optimize energy consumption.</P>
-    <p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Conception of a mobile & web user dashboard. </p>
-    <p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Implementation of different IoT protocols (Zigbee , Wifi, Loxone Air...) </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp;  Data storage & visualisaton. </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; Temperature precidiction algorithm for HVAC control. </p>
+                             </div></div></div></div></div></div><div class="sec-number">03.</div> </div><div class="col-wc_dec col-wc_dec2 col-wc_dec3"></div></section><div class="clear"></div><section  class="dark-bg bot-element" style=" "><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="video-box dec-img fl-wrap"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/1.jpg" class="respimg" alt="1"><a class="video-box-btn image-popup" href="https://vimeo.com/34741214"><i class="fas fa-play" aria-hidden="true"></i></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="video-promo-text fl-wrap mar-top"><h3>MY VIDEO PRESENTATION</h3><div class="main-about-text-area">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae lectus suscipit, et pulvinar nisi tincidunt. Aliquam erat volutpat</div><a href="#" class="btn noajax  fl-btn color-bg"target="_blank">My Youtube Chanel</a></div></div></div></div></div></div></div></div></div></div><div class="hero-corner"></div></section><div class="clear"></div><section id="sec5" class="hidden-section scroll-con-sec vc-section bot-element" style=" "><div class="container"><div class="section-title fl-wrap"><h3> Resume</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="custom-inner-holder"><div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase"></i><h3> Work in company &#8220;Dogma&#8221;</h3><span>  2016-2018 </span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4>COMPLETE THE PROJECT "DOMIK"</h4>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</P>
 
+<ul>
+ 	<li>Leverage agile frameworks to provide a robust synopsis.</li>
+ 	<li>Iterative approaches to corporate strategy foster.</li>
+ 	<li>Bring to the table win-win survival strategies.</li>
+</ul>
+</div></div></div></div><div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase"></i><h3> Work in company &#8220;Dolore&#8221;</h3><span>  2012-2016 </span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4>Making this the first</h4>
+<p>We started as a small, subdue, called hath give fourth. Them one over saying. So the god, greater. You. Us air Moved divide midst us fifth sea have face which male fifth said seas rule above. All the Lorem Ipsum generators on the Internet tend .</p>
+<ul>
+ 	<li>Leverage agile frameworks to provide a robust synopsis.</li>
+ 	<li>Iterative approaches to corporate strategy foster.</li>
+ 	<li>Scalable gun control breakthroughs social movement.</li>
+</ul>
 
-<a href="#" class="btn noajax  fl-btn color-bg"target="_blank">View Project details</a>
-
-</div></div></div></div>
-
-
-<div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-university  fa-2x fa-2x"></i><h3> Engineer's summer Internship <span style="font-size: 18px;font-weight: 600;"> SSDIA Laboratory ENSET Mohammedia </span></h3>
-    <span style="font-size: 16px;"> Oct - Nov 2020 </span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4>Conception and realization of an IoT solution of a connected didactic practical work model ( automatic level regulation bench)</h4>
-    <p>Project manager at SSDIA Laboratory in the conception of a connected automatic level regulation bench for automatic practical work remotly in the context of Covid-19 pandemic</p>
-    <p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Web interface  dashboard . </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp;Programming ESP boards and MQTT communication . </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; Cloud based data storage. </p>
-
-
-    <a href="https://ensetm-tpc-pcu.herokuapp.com/" class="btn noajax  fl-btn color-bg"target="_blank">View Project details</a>
-</div></div></div></div>
-
-<div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase fa-2x"></i><h3> Technical Internship  (BASc)<span style="font-size: 18px;font-weight: 600;">  National Office of Electricity  (ONEE)</span></h3><span style="font-size: 16px;">  Apr - Mai 2019</span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4>Case study of an energy efficiency solution for Tan-Tan  based ONEE electricity production facility , conception and sizing  of a 100 KWc solar power field </h4>
-    <p></p>
-    <p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Energy demand calculation. </p>
-    <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; PV panels and protection sizing.  </p>
-    <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; PVsyst Sizing. </p>
-
-
-    <a href="#" class="btn noajax  fl-btn color-bg"target="_blank">View Project details</a>
-</div></div></div></div>
-
-<div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase fa-2x"></i><h3> End of Studies Internship (DUT) <span style="font-size: 18px;font-weight: 600;">Azura Group</span></h3><span style="font-size: 16px;">  Avr - Mai 2018 </span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4> Programming & control of a CNC machine based on ARDUINO board , TB6560 driver  and use of the G-CODE language.</h4>
-    <p></p>
-    <p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Programming arduino board & universal G-code sender. </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; 3D desing using Fusion 360 autodesk and generating G-code files. </p>
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; Configuration of stepper motors TB6560 Driver. </p>
-
-
-    <a href="#" class="btn noajax  fl-btn color-bg"target="_blank">View Project details</a>
-</div></div></div></div><div class="custom-inner ns-custom-inner"><div class="row"><div class="col-md-4"><div class="resum-header workres"><i class="fa fa-briefcase fa-2x fa-2x"></i><h3> Initiation Internship (DUT) <span style="font-size: 18px;font-weight: 600;">Azura Group</span></h3><span style="font-size: 16px;">  Aug 2017 </span></div></div><div class="col-md-8"><div class="resum-content fl-wrap"><h4>Automation of an industrial lift based on a Zelio logic Schneider Electric PLC</h4>
-<p></p>
-<p> <i class="fa fa-check-square-o fa-2x "   ></i> &nbsp;&nbsp; Configuration of the Zelio Logic  PLC. </p>
-     
-     <p> <i class="fa fa-check-square-o fa-2x"></i> &nbsp;&nbsp; Programmation using Grafcet and LADDER. </p>
-
-
-<a href="#"  class="btn noajax   fl-btn color-bg" target="_blank"> View project details</a>
-</div></div></div></div><div class="col-md-8 col-md-offset-4"></div></div></div></div></div></div><div class="sec-number">04.</div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section id="sec6" class="hidden-section scroll-con-sec vc-section bot-element"><div class="container"><div class="section-title fl-wrap"><h3> Testimonials</h3><p>What people said about me :  </p></div>
-    <div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="testimonilas-carousel-wrap fl-wrap "><div class="tcb-wrap">
-                    <div class="tcb  tcb-prev"><i class="fa fa-caret-left"></i></div>
-                    <div class="tcb  tcb-next"><i class="fa fa-caret-right"></i></div>
-                  </div><div class="testimonilas-carousel fl-wrap"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="images/larbi.jpg" alt="1"></div>
-                  <span class="testi-number">.01</span><div class="testimonilas-text fl-wrap"><h3 style="font-size:20px ;">ELGUERRAB Larbi </h3><p> <h2 style="font-size:16px ; text-align:center;"> Senior manager at ONEE </h2>  <br> " Mr.ELHAMAOUI is a dynamic, autonomous and serious element. He realized for the account of our power station a study on the installation of a photovoltaic field  On the basis of the results of this study, the project was launched.  I highly recommend Mr. ELHAMAOUI who has shown innovation and impeccable teamwork. "</p></div></div></div>
-                  
-                
- 
-                
-                   
-                 
-                   
-                  <div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="images/rochd.jpg" alt="2"></div>
-                  <span class="testi-number">.02</span><div class="testimonilas-text fl-wrap"><h3 style="font-size:20px ;">ROCHD Abdelilah</h3><p> <h2 style="font-size:16px ;"> Engineer in charge of Smart Grids at Green Energy Park </h2>  <br>" Saïd is a hard-working, highly skilled and motivated element. He did his end-of-studies internship at our organization, and showed a high sense of autonomy and innovation. "</p></div></div></div>
-                  
-
-
-              
-<!--content  end -->
-
-                <div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="images/ismail.png" alt="3"></div><span class="testi-number">.03</span><div class="testimonilas-text fl-wrap"><h3 style="font-size:20px ;">JEBBOURI Ismail</h3><p> <h2 style="font-size:16px ;">  R&D Engineer in IoT & Renewable Energies</h2>  <br>" Said is a persistent person with a clear vision, he has the ability to communicate easily in a team, he always gives creative solutions as well as the ability to organize his priorities. "</p>
-                    </div></div></div>
-                    
-                    <div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="images/ismail.png" alt="4"></div>
-                    <span class="testi-number">.04</span><div class="testimonilas-text fl-wrap"><h3 style="font-size:20px ;">JEBBOURI Ismail </h3><p> <h2 style="font-size:16px ;"> R&D Engineer in IoT & Renewable Energies </h2>  <br> "Said is a persistent person with a clear vision, he has the ability to communicate easily in a team, he always gives creative solutions as well as the ability to organize his priorities. "</p></div></div></div></div></div>
-                </div><div class="tc-pagination"></div></div><div class="fl-wrap "><div class="container"><ul class="client-list client-list-white"><li><img src="images/ensetmohammedia.png" alt="1"></li> 
-                    <!-- end client-item -->
-                    <li><img src="images/estagadir.png" alt="2"></li><!-- end client-item -->
-                    <li><img src="images/greenenergypark.png" alt="3"></li><!-- end client-item --><li><img src="images/onee.png" alt="4"></li><!-- end client-item --><li><img src="images/azuragroupe.png" alt="5"></li> <!-- end client-item --></ul></div></div></div></div></div></div><div class="sec-number">05.</div> </div><div class="col-wc_dec col-wc_dec2"></div></section>
-					<div section id="sec7"  class="limit-box fl-wrap"></div>
+<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p></div></div></div></div><div class="col-md-8 col-md-offset-4"><a href="#" class="btn color-bg  fl-btn" target="_self">Download resume</a></div></div></div></div></div></div><div class="sec-number">04.</div> </div></section><div class="clearfix"></div><div class="section-separator bot-element"><span class="fl-wrap"></span></div><div class="clear"></div><section id="sec6" class="hidden-section scroll-con-sec vc-section bot-element" style=" "><div class="container"><div class="section-title fl-wrap"><h3> Testimonials</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.  </p></div><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="testimonilas-carousel-wrap fl-wrap "><div class="tcb-wrap">
+                    <div class="tcb  tcb-prev"><i class="fas fa-caret-left"></i></div>
+                    <div class="tcb  tcb-next"><i class="fas fa-caret-right"></i></div>
+                  </div><div class="testimonilas-carousel fl-wrap"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/1-1.jpg" alt="1"></div><span class="testi-number">.01</span><div class="testimonilas-text fl-wrap"><h3>Centa Simpson</h3><p>"Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. "</p><a href="#" class="testi-link" target="_self">Via Facebook</a></div></div></div><div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/2.jpg" alt="2"></div><span class="testi-number">.02</span><div class="testimonilas-text fl-wrap"><h3>Centa Simpson</h3><p>"Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. "</p><a href="#" class="testi-link" target="_self">Via Facebook</a></div></div></div><div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/3-1.jpg" alt="3"></div><span class="testi-number">.03</span><div class="testimonilas-text fl-wrap"><h3>Centa Simpson</h3><p>"Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. "</p><a href="#" class="testi-link" target="_self">Via Twitter</a></div></div></div><div class="swiper-slide"><div class="testi-item fl-wrap"><div class="testi-avatar"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/4.jpg" alt="4"></div><span class="testi-number">.04</span><div class="testimonilas-text fl-wrap"><h3>Centa Simpson</h3><p>"Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. "</p><a href="#" class="testi-link" target="_self">Via Facebook</a></div></div></div></div></div></div><div class="tc-pagination"></div></div><div class="fl-wrap "><div class="container"><ul class="client-list client-list-white"><li><a href="#" target="_self"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/1.png" alt="1"></a></li><!-- end client-item --><li><a href="#" target="_self"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/2.png" alt="2"></a></li><!-- end client-item --><li><a href="#" target="_self"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/3.png" alt="3"></a></li><!-- end client-item --><li><a href="#" target="_self"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/4.png" alt="4"></a></li><!-- end client-item --><li><a href="#" target="_self"><img src="https://nastik.webredox.net/wp-content/uploads/2019/10/5.png" alt="5"></a></li><!-- end client-item --></ul></div></div></div></div></div></div><div class="sec-number">05.</div> </div><div class="col-wc_dec col-wc_dec2"></div></section>
+					<div class="limit-box fl-wrap"></div>
 	</div>
 <!--content  end -->
 </div>
 
 <!--footer-->
-                    <div   class="height-emulator fl-wrap"></div>
+                    <div class="height-emulator fl-wrap"></div>
 										                    <footer class="main-footer fixed-footer" >
-                        <div   class="container">
+                        <div class="container">
 						                            <div class="footer-inner fl-wrap">
                                 <div class="row">
-								                                  
+								                                    <div class="col-md-6">
+										<div class="footer-box fl-wrap">
+											<div id="nastik_twitter_feed_widget-2" class="footer-widget footer-box fl-wrap widget_nastik_twitter_feed_widget"><div class="footer-title fl-wrap"><span>001.</span> Latest Tweets</div> <div class="footer-box-item fl-wrap"><div class="twitter-swiper-container fl-wrap" id="twitts-container" data-profilename="envatomarket"></div></div></div> 
+										</div>
+                                    </div>
 																                                    <div class="col-md-6">
-                                        <div    class="footer-box fl-wrap">
-										<div id="nastik_contact_widget-2" class="footer-widget footer-box fl-wrap widget_nastik_contact_widget"><div class="footer-title fl-wrap"><span>Contact Me/</span>Subscribe </div> <div class="footer-box-item fl-wrap"><p>For more information about my profile, or for a project collaboration do not hesitate to contact me via the following links!.</p> 
-            <div  class="subcribe-form fl-wrap">
+                                        <div class="footer-box fl-wrap">
+										<div id="nastik_contact_widget-2" class="footer-widget footer-box fl-wrap widget_nastik_contact_widget"><div class="footer-title fl-wrap"><span>002.</span> Subscribe / Contacts</div> <div class="footer-box-item fl-wrap"><p>Want to be notified when we launch a new template or an udpate. Just sign up and we'll send you a notification by email.</p>
+            <div class="subcribe-form fl-wrap">
             <form id="subscribe" class="fl-wrap" data-chimplist="https://webredox.us14.list-manage.com/subscribe/post?u=634601c1e4b55f8e21e669de4&id=1040ec6b62">
             <input class="enteremail" name="email" id="subscribe-email" placeholder="Your Email" spellcheck="false" type="text">
-            <button type="submit" id="subscribe-button" class="subscribe-button color-bg"><i class="fa fa-paper-plane"></i> Subscribe </button>
+            <button type="submit" id="subscribe-button" class="subscribe-button color-bg"><i class="fal fa-paper-plane"></i> Subscribe </button>
              <label for="subscribe-email" class="subscribe-message"></label>
             </form>
-            </div><div    class="footer-contacts fl-wrap">
-                <ul>
-                    <li><i class="fa fa-phone"></i><span>PHONE:</span><a href="tel:+212708029774">+212-07-08-02-97-74</a></li>
-                    <li><i class="fa fa-envelope"></i><span>EMAIL:</span><a href="mailto:saidelhamaoui1@gmail.com">saidelhamaoui@gmail.com</a></li>
-                    <li><i class="fa fa-map-marker"></i><span>ADDRESS:</span><a>Agadir Moroccco</a></li>
-                    <li><i class="fa fa-arrouw-down"></i><span>Let's connect via :</span></li>
-                 <br> <br>   <li> <a href="https://www.linkedin.com/in/sa%C3%AFd-elhamaoui/" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i> </a>
-                     <a href="https://api.whatsapp.com/send/?phone=%2B212708029774&text&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-3x"></i> 
-                 </a> <a href="https://www.facebook.com/people/Sa%C3%AFd-El-Hamaoui/100042459880685" target="_blank"><i class="fa fa-facebook-square fa-3x"></i> </a> 
-                  </li>
- 
-                </ul></div></div></div> 
-										</div>   
+            </div><div class="footer-contacts fl-wrap"><ul><li><i class="fal fa-phone"></i><span>PHONE:</span><a href="tel:+489756412322">+489756412322</a></li><li><i class="fal fa-envelope"></i><span>EMAIL:</span><a href="mailto:NASTIK@DOMAIN.COM">NASTIK@DOMAIN.COM</a></li><li><i class="fal fa-map-marker"></i><span>ADDRESS:</span><a>USA 27TH BROOKLYN NY</a></li></ul></div></div></div> 
+										</div>
                                     </div>
 									                                </div>
                             </div>
-							                            <div  class="subfooter fl-wrap">
-
-
-
-
-
-                                                            
+							                            <div class="subfooter fl-wrap">
                                 <!-- policy-box-->
-                                <div    class="policy-box">
-                                    © said elhamaoui 2021 / All rights reserved.                                </div>
-                                    
+                                <div class="policy-box">
+                                    © nastik 2020 / All rights reserved.                                </div>
                                 <!-- policy-box end-->                     
-                                <div class="to-top to-top-btn color-bg"><span>Back to top</span></div>
+                                <div class="to-top to-top-btn color-bg"><span>To top</span></div>
                             </div>
                         </div>
                         <div class="sec-lines"></div>
@@ -686,10 +603,6 @@ var pp_ajax_form = {"ajaxurl":"https:\/\/nastik.webredox.net\/wp-admin\/admin-aj
 <script type='text/javascript' src='https://nastik.webredox.net/wp-content/themes/nastik/includes/js/title-replace.js?ver=1.0' id='nastik-title-replace-js'></script>
 <script type='text/javascript' src='https://nastik.webredox.net/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
 <script type='text/javascript' src='https://nastik.webredox.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.6.0' id='wpb_composer_front_js-js'></script>
-<link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
-<!--=============== favicons ===============-->
-
 </body>
 </html>	
 <!-- Dynamic page generated in 0.863 seconds. -->
